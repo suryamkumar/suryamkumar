@@ -1,4 +1,4 @@
-![logo](https://github.com/suryamkumar/suryamkumar/Personal-Profile-Banner.png)
+![logo](https://github.com/suryamkumar/suryamkumar/blob/main/Personal%20Profile%20Banner.png)
 <h1 align="center">Hi 👋, I'm Suryam Kumar</h1>
 <h3 align="center">A passionate Android developer from India</h3>
 
