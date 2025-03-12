@@ -1,4 +1,4 @@
-![logo](https://github.com/suryamkumar/suryamkumar/blob/main/gradient-dark-blue-futuristic-digital-grid-background.jpg)
+![logo](https://github.com/suryamkumar/suryamkumar/Personal Profile Banner.png)
 <h1 align="center">Hi 👋, I'm Suryam Kumar</h1>
 <h3 align="center">A passionate Android developer from India</h3>
 
