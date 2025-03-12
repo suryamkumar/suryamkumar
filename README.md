@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suryam-kumar&label=Profile%20views&color=0e75b6&style=flat" alt="suryam-kumar" /> </p>
 
-- 🌱 I’m currently learning **Flutter, Spring Boot**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 💬 Ask me about **Android Development**
 
